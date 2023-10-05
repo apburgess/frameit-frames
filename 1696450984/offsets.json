@@ -274,19 +274,19 @@
     },
     "iPhone 14 Plus": {
       "offset": "+148+120",
-      "width": 2568
+      "width": 1284
     },
     "iPhone 14 Pro Max": {
       "offset": "+134+110",
-      "width": 2580
+      "width": 1290
     },
     "iPhone 14 Pro": {
       "offset": "+136+116",
-      "width": 2358
+      "width": 1179
     },
     "iPhone 14": {
       "offset": "+148+122",
-      "width": 2340
+      "width": 1170
     },
     "iPhone 5c": {
       "offset": "+67+239",
