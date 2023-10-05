@@ -160,20 +160,12 @@
       "offset": "+44+42",
       "width": 1080
     },
-    "Samsung Galaxy S21 5G Violet": {
-      "offset": "+44+42",
-      "width": 1080
-    },
     "Samsung Galaxy S21 Ultra 5G": {
       "offset": "+44+54",
       "width": 1440
     },
     "Samsung Galaxy S21+ 5G": {
       "offset": "+44+42",
-      "width": 1080
-    },
-    "Samsung Galaxy S21+ 5G Violet": {
-      "offset": "+43+42",
       "width": 1080
     },
     "Samsung Galaxy S3": {
@@ -260,35 +252,11 @@
       "offset": "+72+63",
       "width": 1170
     },
-    "iPhone 12 Pro Graphite": {
-      "offset": "+72+63",
-      "width": 1170
-    },
     "iPhone 12 Pro Max": {
       "offset": "+74+62",
       "width": 1284
     },
-    "iPhone 12 Pro Max Graphite": {
-      "offset": "+74+62",
-      "width": 1284
-    },
-    "iPhone 12 Pro Max Pacific": {
-      "offset": "+74+62",
-      "width": 1284
-    },
-    "iPhone 12 Pro Pacific": {
-      "offset": "+72+63",
-      "width": 1170
-    },
     "iPhone 13 Mini": {
-      "offset": "+71+63",
-      "width": 1080
-    },
-    "iPhone 13 Mini Midnight": {
-      "offset": "+74+66",
-      "width": 1080
-    },
-    "iPhone 13 Mini Starlight": {
       "offset": "+71+63",
       "width": 1080
     },
@@ -296,23 +264,7 @@
       "offset": "+75+70",
       "width": 1284
     },
-    "iPhone 13 Pro Max Graphite": {
-      "offset": "+75+69",
-      "width": 1284
-    },
-    "iPhone 13 Pro Max Sierra": {
-      "offset": "+74+69",
-      "width": 1284
-    },
     "iPhone 13 Pro": {
-      "offset": "+74+62",
-      "width": 1170
-    },
-    "iPhone 13 Pro Graphite": {
-      "offset": "+74+62",
-      "width": 1170
-    },
-    "iPhone 13 Pro Sierra": {
       "offset": "+74+62",
       "width": 1170
     },
@@ -320,35 +272,7 @@
       "offset": "+72+64",
       "width": 1170
     },
-    "iPhone 13 Midnight": {
-      "offset": "+72+64",
-      "width": 1170
-    },
-    "iPhone 13 Starlight": {
-      "offset": "+72+64",
-      "width": 1170
-    },
     "iPhone 14 Plus": {
-      "offset": "+148+120",
-      "width": 2568
-    },
-    "iPhone 14 Plus Red": {
-      "offset": "+148+120",
-      "width": 2568
-    },
-    "iPhone 14 Plus Blue": {
-      "offset": "+148+120",
-      "width": 2568
-    },
-    "iPhone 14 Plus Midnight": {
-      "offset": "+148+120",
-      "width": 2568
-    },
-    "iPhone 14 Plus Purple": {
-      "offset": "+148+120",
-      "width": 2568
-    },
-    "iPhone 14 Plus Starlight": {
       "offset": "+148+120",
       "width": 2568
     },
@@ -356,63 +280,11 @@
       "offset": "+134+110",
       "width": 2580
     },
-    "iPhone 14 Pro Max Deep": {
-      "offset": "+134+110",
-      "width": 2580
-    },
-    "iPhone 14 Pro Max Golden": {
-      "offset": "+134+110",
-      "width": 2580
-    },
-    "iPhone 14 Pro Max Silver": {
-      "offset": "+134+110",
-      "width": 2580
-    },
-    "iPhone 14 Pro Max Space": {
-      "offset": "+134+110",
-      "width": 2580
-    },
     "iPhone 14 Pro": {
       "offset": "+136+116",
       "width": 2358
     },
-    "iPhone 14 Pro Deep": {
-      "offset": "+136+116",
-      "width": 2358
-    },
-    "iPhone 14 Pro Golden": {
-      "offset": "+136+116",
-      "width": 2358
-    },
-    "iPhone 14 Pro Silver": {
-      "offset": "+136+116",
-      "width": 2358
-    },
-    "iPhone 14 Pro Space": {
-      "offset": "+136+116",
-      "width": 2358
-    },
     "iPhone 14": {
-      "offset": "+148+122",
-      "width": 2340
-    },
-    "iPhone 14 Red": {
-      "offset": "+148+122",
-      "width": 2340
-    },
-    "iPhone 14 Blue": {
-      "offset": "+148+122",
-      "width": 2340
-    },
-    "iPhone 14 Midnight": {
-      "offset": "+148+122",
-      "width": 2340
-    },
-    "iPhone 14 Purple": {
-      "offset": "+148+122",
-      "width": 2340
-    },
-    "iPhone 14 Starlight": {
       "offset": "+148+122",
       "width": 2340
     },
